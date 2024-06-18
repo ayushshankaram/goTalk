@@ -1,6 +1,6 @@
 .DS_Store
-go.mod
-go.sum
-README.md
-LICENSE
-makefile
+./go.mod
+./go.sum
+./README.md
+./LICENSE
+./makefile
